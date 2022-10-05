@@ -1,0 +1,41 @@
+@media (max-width: 768px) {
+  .centrado-h {
+    display: flex;
+    align-content: end;
+  }
+}
+
+@media (min-width: 768px) {
+  .center-h {
+    display: flex;
+    justify-content: end;
+  }
+}
+
+@media (min-width: 768px) {
+  .center-r {
+    display: flex;
+  }
+}
+
+@media (min-width: 768px) {
+  .mar-qh {
+    margin-right: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .mar-qr {
+    margin-left: 10px;
+  }
+}
+
+#amor-1 {
+  background-image: url("../../assets/img/corintios137.jpg");
+  background-color: rgb(80,80,85);
+  background-blend-mode: soft-light;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
